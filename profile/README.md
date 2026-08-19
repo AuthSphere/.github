@@ -15,4 +15,3 @@ We believe in building useful software, keeping things simple, and learning in p
 
 Contributions and feedback are welcome.
 
-**[GitHub](https://github.com/authspherejs)**
