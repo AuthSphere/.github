@@ -1,35 +1,18 @@
 # AuthSphere
 
-Authentication infrastructure for modern applications.
+Building simple and reliable tools for developers.
 
-Build secure, developer-friendly authentication without reinventing
-OAuth flows, sessions, and identity management.
+AuthSphere is an open-source organization focused on authentication, developer tools, and software infrastructure.
 
-## 🚀 What we're building
+### Projects
 
-- 🔐 OAuth 2.0 + PKCE authentication
-- 🧩 Plug-and-play TypeScript SDK
-- 🌐 Developer dashboard
-- 🔑 Google, GitHub & Discord authentication
-- 🏢 Multi-tenant authentication
-- 📦 Developer-first APIs
+* AuthSphere — Authentication and OAuth infrastructure
+* More projects coming soon.
 
-## 📚 Projects
+### Community
 
-| Project | Description |
-| --- | --- |
-| AuthSphere SDK | TypeScript SDK for integrating AuthSphere |
-| AuthSphere Dashboard | Manage applications, users & authentication |
-| AuthSphere API | Core authentication infrastructure |
+We believe in building useful software, keeping things simple, and learning in public.
 
-## 🤝 Contributing
+Contributions and feedback are welcome.
 
-We'd love contributions from developers building with AuthSphere.
-
-Check out our repositories, open an issue, or submit a pull request.
-
-## 🔗 Links
-
-- Documentation
-- Website
-- GitHub
+**[GitHub](https://github.com/authspherejs)**
