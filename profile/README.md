@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/logo-banner.png" alt="AuthSphere" width="700"/>
+  <img src="assets/logo-banner.png" alt="AuthSphere" width="260" style="width:260px; max-width:100%; border-radius:12px;"/>
 </p>
 
-<h1 align="center">AuthSphere</h1>
+<h1 align="center" style="margin-top:8px;">AuthSphere</h1>
 
-<p align="center">
+<p align="center" style="font-size:15px;">
   <b>Building simple and reliable tools for developers.</b><br/>
   AuthSphere is an open-source organization focused on authentication, developer tools, and software infrastructure.
 </p>
@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.jpg" alt="AuthSphere — Secure Identity Gateway" width="800"/>
+  <img src="assets/banner.jpg" alt="AuthSphere — Secure Identity Gateway" width="420" style="width:420px; max-width:100%; border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.25);"/>
 </p>
 
-<hr/>
+<hr style="border:none; border-top:1px solid rgba(128,128,128,0.3); margin:24px 0;"/>
 
 ### 🚀 Projects
 
@@ -28,13 +28,14 @@
 | **AuthSphere** | Authentication and OAuth infrastructure |
 | *More coming soon* | Stay tuned — new developer tools are in the works |
 
-<hr/>
+<hr style="border:none; border-top:1px solid rgba(128,128,128,0.3); margin:24px 0;"/>
 
 ### 🤝 Community
 
-We believe in building useful software, keeping things simple, and learning in public.
-
-Contributions and feedback are welcome — if you have an idea or spot an issue, open one!
+<p align="center">
+  We believe in building useful software, keeping things simple, and learning in public.<br/>
+  Contributions and feedback are welcome — if you have an idea or spot an issue, open one!
+</p>
 
 <p align="center">
   <sub>Built with ❤️ by the AuthSphere team</sub>
