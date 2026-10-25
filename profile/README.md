@@ -1,32 +1,32 @@
-<p align="center">
-  <img src="assets/logo-banner.png" alt="AuthSphere" width="220"/>
-</p>
+<div align="center">
 
-<h1 align="center">AuthSphere</h1>
+<img src="assets/AuthSphere Secure Tech Banner.png" alt="AuthSphere — Secure Identity. Seamless Access." width="720">
 
-<p align="center">
-  <b>Simple, reliable tools for developers.</b><br/>
-  Open-source authentication, developer tools, and software infrastructure.
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-2ea44f?style=flat-square" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Focus-Authentication-8b5cf6?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-lightgrey?style=flat-square" alt="Made with love"/>
-</p>
+**Simple, reliable tools for developers.**<br>
+Open-source authentication, developer tools, and software infrastructure.
 
-<p align="center">
-  <img src="assets/banner.jpg" alt="AuthSphere" width="380"/>
-</p>
+<br>
 
-### 🚀 Projects
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-0B1F4B?style=for-the-badge" alt="Open Source">
+<img src="https://img.shields.io/badge/AUTHENTICATION-2B4BFF?style=for-the-badge" alt="Authentication">
+<img src="https://img.shields.io/badge/OAUTH-00C2FF?style=for-the-badge" alt="OAuth">
+
+</div>
+
+<br>
+
+## 🚀 Projects
 
 - **AuthSphere** — Authentication and OAuth infrastructure
-- *More coming soon*
+- _More coming soon_
 
-### 🤝 Community
+## 🤝 Community
 
 Building useful software, keeping things simple, and learning in public.
 Contributions and feedback welcome — open an issue or PR!
 
-<p align="center"><sub>Built with ❤️ by the AuthSphere team</sub></p>
+<div align="center">
+<sub>Built with ❤️ by the AuthSphere team</sub>
+</div>
