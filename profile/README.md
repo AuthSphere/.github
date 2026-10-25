@@ -2,6 +2,7 @@
 
 <img src="assets/Banner AuthSphere 3.jpg" alt="AuthSphere — Secure Identity. Seamless Access.">
 <br><br>
+
 **Simple, reliable authentication &amp; infrastructure tools for developers.**<br>
 <sub>Open-source identity protocols, developer tooling, and modern software foundations.</sub>
 
