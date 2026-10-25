@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="assets/AuthSphere%20Secure%20Tech%20Banner.png" alt="AuthSphere — Secure Identity. Seamless Access." width="820">
-
+<img src="assets/Banner AuthSphere 3.jpg" alt="AuthSphere — Secure Identity. Seamless Access.">
 <br><br>
-
-# AuthSphere
-
 **Simple, reliable authentication &amp; infrastructure tools for developers.**<br>
 <sub>Open-source identity protocols, developer tooling, and modern software foundations.</sub>
 
