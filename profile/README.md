@@ -18,10 +18,6 @@
 <br>
 
 [What We Build](#what-we-build) &nbsp;•&nbsp;
-[Architecture](#architecture) &nbsp;•&nbsp;
-[Featured Projects](#featured-projects) &nbsp;•&nbsp;
-[Quick Start](#quick-start) &nbsp;•&nbsp;
-[Our Principles](#our-principles) &nbsp;•&nbsp;
 [Community &amp; Contributing](#community--contributing)
 
 </div>
